@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+AI+Researcher+from+Westlake+University;🚀+Efficient-AI" />
+  
 </p>
 
 ---
