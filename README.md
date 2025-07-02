@@ -9,16 +9,16 @@
 ---
 
 ### 🧬 About Me
-- 🎓 I'm an undergraduate at **Westlake University**, majoring in Artificial Intelligence.
+- 🎓 I'm an undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
 - 🌌 I work at the intersection of **Efficient AI**, **Diffusion Models**, **Pruning**.
-- 🧪 Currently researching **training-free pruning for LLMs**.
+- 🧪 Currently researching **training-free pruning**.
 
 ---
 
 ### 🚀 Tech Stack & Interests
 - 🤖 **Machine Learning**: PyTorch, Hugging Face
 - 🌫️ **Diffusion Models**: DDPM, StableDiffusion3, FlowMatch
-- 🧼 **Model Compression**: SparseGPT, OBS, Wanda, SlimGPT
+- 🧼 **Model Compression**: OBS, SparseGPT, Wanda, SlimGPT
 - 📊 **Tools**: LaTeX, Simulink
 
 ---
@@ -40,7 +40,7 @@
 
 ### ✨ Motto
 
-> Yizhan LU, let's see!
+> Hey Chen Yizhen, reply when you get a chance!
 
 ---
 
