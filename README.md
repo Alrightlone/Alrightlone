@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junhan Zhu</h1>
-<h3 align="center">AI Explorer | Researcher-in-Progress | Dreaming Beyond the Horizon</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+AI+Researcher+from+Westlake+University;🚀+Efficient-AI" />
