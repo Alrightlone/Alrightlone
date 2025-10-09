@@ -11,14 +11,13 @@
 ### 🧬 About Me
 - 🎓 I'm an undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
 - 🌌 I work at the intersection of **Efficient AI**, **Diffusion Models**, **Pruning**.
-- 🧪 Currently researching **training-free pruning**.
 
 ---
 
 ### 🚀 Tech Stack & Interests
 - 🤖 **Machine Learning**: PyTorch, Hugging Face
-- 🌫️ **Diffusion Models**: DDPM, StableDiffusion3, FlowMatch
-- 🧼 **Model Compression**: OBS, SparseGPT, Wanda, SlimGPT
+- 🌫️ **Diffusion Models**: FlowMatch
+- 🧼 **Model Compression**: OBS
 - 📊 **Tools**: LaTeX, Simulink
 
 ---
@@ -30,13 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alrightlone&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
-</p>
-
----
 
 ### ✨ Motto
 
