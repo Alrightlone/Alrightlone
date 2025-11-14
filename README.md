@@ -2,7 +2,6 @@
   Hi 👋, I'm Junhan Zhu 
   </h1>
   
----
 
 ### 🧬 About Me
 - 🎓  I'm an undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
