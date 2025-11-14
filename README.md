@@ -80,8 +80,8 @@
 - Email: [zhujunhan@westlake.edu.cn](mailto:zhujunhan@westlake.edu.cn)
 - LinkedIn: [Junhan Zhu](https://www.linkedin.com/in/junhan-zhu-005313361/) -- Welcome to connect with me!
 - X: [@Alright_lone](https://x.com/Alright_lone) -- Welcome to follow me!
-- My AI Notes & Research Logs: Coming soon! I will show my thoughts and research on Efficient AI, such as model compression, efficient training, etc.
-- Always open to research collaborations and exciting side-projects! Welcome to contact me!
+- My AI Notes & Research Logs: Coming soon! I will show my thoughts and research on **Efficient AI**, such as Model Compression, Efficient Training, etc.
+- **Always open to research collaborations and exciting side-projects! Welcome to contact me!**
 
 ---
 
