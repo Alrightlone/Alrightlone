@@ -11,7 +11,7 @@
 ### 🧬 About Me
 - 🎓  I'm an undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
 - 🔬 I work at the intersection of **Efficient AI**, **Computer Vision** and **Model Compression**.
-- 🎯 I am actively seeking  **<span style="color:red;">2027fall PhD opportunities in Computer Vision and AI!</span>**
+- 🎯 I am actively seeking  **27fall PhD opportunities in Computer Vision and AI**!
 
 
 ### 📝 Research Highlights
@@ -30,7 +30,7 @@
         <a href="https://github.com/Alrightlone/OBS-Diff"><img src="https://img.shields.io/github/stars/Alrightlone/OBS-Diff?style=flat-square&logo=github"></a>
       </p>
       <p>
-        The <b>first training-free, one-shot pruning framework</b> for Diffusion Models, supporting diverse architectures and pruning granularities. Uses Optimal Brain Surgeon (OBS) to achieve **SOTA** compression with high generative quality.
+        The <b>first training-free, one-shot pruning framework</b> for Diffusion Models, supporting diverse architectures and pruning granularities. Uses Optimal Brain Surgeon (OBS) to achieve <b>SOTA</b> compression with high generative quality.
       </p>
     </td>
   </tr>
