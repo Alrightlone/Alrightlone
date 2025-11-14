@@ -61,12 +61,18 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alrightlone&theme=flat&row=1" alt="Alrightlone's Trophies" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alrightlone&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Alrightlone's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alrightlone&theme=github&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Alrightlone&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Alrightlone's GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alrightlone&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 ### 🌍 Connect with Me
