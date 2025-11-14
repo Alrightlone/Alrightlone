@@ -9,28 +9,64 @@
 ---
 
 ### 🧬 About Me
-- I'm an undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
-- I work at the intersection of **Efficient AI**, **Computer Vision**.
-- I am seeking **<span style="color:red;">2027fall PhD opportunities in Computer Vision and AI!</span>**
+- 🎓  I'm an undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
+- 🔬 I work at the intersection of **Efficient AI**, **Computer Vision** and **Model Compression**.
+- 🎯 I am actively seeking  **<span style="color:red;">2027fall PhD opportunities in Computer Vision and AI!</span>**
 
 
 ### 📝 Research Highlights
 
-* **1. Paper: <a href="https://arxiv.org/abs/2510.06751" target="_blank">OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot</a>**
-    * 🧑‍💻 **Authors:** **Junhan Zhu**, Hesong Wang, Mingluo Su, Zefang Wang, Huan Wang*
-    * 🔗 **<a href="https://github.com/Alrightlone/OBS-Diff" target="_blank">Code (GitHub)</a>** <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Alrightlone/OBS-Diff?style=social">  | 📚 **Preprint** | 🗓️ **2025.10**
-    * 💡 **[Brief Summary]:** **OBS-Diff** is the *first training-free, one-shot pruning framework for Diffusion Models*, supporting diverse architectures and pruning granularities. It successfully revitalizes the classic Optimal Brain Surgeon (OBS) method, achieving **state-of-the-art compression performance** and high generative quality, even at aggressive sparsity levels.
-    
-* **2. Project: <a href="https://github.com/Alrightlone/SparAlloc" target="_blank">SparAlloc: A Simple and Modular Framework for Decoupled Sparsity Allocation in Layerwise Pruning for LLM</a>**
-    * 🔗 **<a href="https://github.com/Alrightlone/SparAlloc" target="_blank">Code (GitHub)</a>** <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Alrightlone/SparAlloc?style=social">
-    * 💡 **[Brief Summary]:** Developed a **standardized, modular benchmark toolkit** for the fair comparison of diverse sparsity allocation algorithms in LLM pruning research. This toolkit enables researchers to flexibly combine and evaluate various pruning algorithms and sparsity allocation methods.
+<table>
+  <tr>
+    <td width="30%">
+      <img src="figures/teaser (1).jpg" alt="OBS-Diff" width="100%" />
+    </td>
+    <td width="70%">
+      <h4>🏆 <a href="https://alrightlone.github.io/OBS-Diff-Webpage/">OBS-Diff: Accurate Pruning for Diffusion Models in One-Shot</a></h4>
+      <p>
+        <em><b>Junhan Zhu</b>, Hesong Wang, Mingluo Su, Zefang Wang, Huan Wang*</em>
+        <br>
+        <a href="https://arxiv.org/abs/2510.06751"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg?style=flat-square"></a> 
+        <a href="https://github.com/Alrightlone/OBS-Diff"><img src="https://img.shields.io/github/stars/Alrightlone/OBS-Diff?style=flat-square&logo=github"></a>
+      </p>
+      <p>
+        The <b>first training-free, one-shot pruning framework</b> for Diffusion Models, supporting diverse architectures and pruning granularities. Uses Optimal Brain Surgeon (OBS) to achieve **SOTA** compression with high generative quality.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%">
+       <img src="figures/diagram (1).jpg" alt="SparAlloc" width="100%" />
+    </td>
+    <td width="70%">
+      <h4>🛠️ <a href="https://github.com/Alrightlone/SparAlloc">SparAlloc: Framework for Layerwise Pruning in LLM</a></h4>
+      <p>
+        <em>Open Source Project</em>
+        <br>
+        <a href="https://github.com/Alrightlone/SparAlloc"><img src="https://img.shields.io/github/stars/Alrightlone/SparAlloc?style=flat-square&logo=github"></a>
+      </p>
+      <p>
+        A <b>modular benchmark toolkit</b> for decoupled sparsity allocation in LLM pruning. Enables fair comparison and flexible combination of pruning algorithms.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alrightlone&theme=flat&row=1" alt="Alrightlone's Trophies" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alrightlone&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Alrightlone's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alrightlone&theme=github&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ---
 ### 🌍 Connect with Me
@@ -43,7 +79,7 @@
 ---
 
 
-### ✨ Motto
+### ✨ Just for Fun
 
 > Hey Chen Yizhen, reply when you get a chance!
 
