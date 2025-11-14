@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Junhan Zhu 
-  <img src="figures/signature.jpg" alt="中文签名" style="height: 60px; vertical-align: top; margin-left: 10px;">
+  <img src="figures/signature.jpg" alt="中文签名" style="height: 40px; vertical-align: top; margin-left: 10px;">
   </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+AI+Researcher+from+Westlake+University;🚀+Efficient-AI" />
