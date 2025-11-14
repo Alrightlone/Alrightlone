@@ -42,7 +42,8 @@
        <img src="figures/diagram (1).jpg" alt="SparAlloc" width="100%" />
     </td>
     <td width="70%">
-      <h4>🛠️ <a href="https://github.com/Alrightlone/SparAlloc">SparAlloc: Framework for Layerwise Pruning in LLM</a></h4>
+      <h4>🛠️ <a href="https://github.com/Alrightlone/SparAlloc">SparAlloc: A Simple and Modular Framework for Decoupled Sparsity Allocation in Layerwise Pruning for LLM
+</a></h4>
       <p>
         <em>Open Source Project</em>
         <br>
