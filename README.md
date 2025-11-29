@@ -17,7 +17,7 @@
       <img src="figures/teaser (1).jpg" alt="OBS-Diff" width="100%" />
     </td>
     <td width="70%">
-      <h4>🏆 <a href="https://alrightlone.github.io/OBS-Diff-Webpage/">OBS-Diff: Accurate Pruning for Diffusion Models in One-Shot</a></h4>
+      <h4>✂️ <a href="https://alrightlone.github.io/OBS-Diff-Webpage/">OBS-Diff: Accurate Pruning for Diffusion Models in One-Shot</a></h4>
       <p>
         <em><b>Junhan Zhu</b>, Hesong Wang, Mingluo Su, Zefang Wang, Huan Wang*</em>
         <br>
@@ -58,16 +58,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Alrightlone&theme=flat&row=1" alt="Alrightlone's Trophies" />
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Alrightlone&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Alrightlone's GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alrightlone&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 
 ---
