@@ -55,10 +55,10 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alrightlone&theme=flat&row=1" alt="Alrightlone's Trophies" />
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy-2-49tyxiwey-alrightlones-projects.vercel.app/?username=Alrightlone&theme=flat&row=1&v=20260101" alt="Alrightlone's Trophies" />
+</p>
 
 
 ---
