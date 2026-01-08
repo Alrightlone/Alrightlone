@@ -4,6 +4,10 @@
 
 [![Views](https://komarev.com/ghpvc/?username=Alrightlone&label=Views&color=blueviolet&style=flat)](https://github.com/Alrightlone) [![Personal Website](https://img.shields.io/badge/Personal%20Website-Junhan%20Zhu-blue?logo=google-chrome&logoColor=white)](https://Alrightlone.github.io) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Junhan%20Zhu-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kWEQRU0AAAAJ&hl=en) [![GitHub Stars](https://img.shields.io/badge/dynamic/json?label=GitHub%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAlrightlone&color=yellow&logo=github)](https://github.com/Alrightlone)
 
+<h3 align="center">
+  <i>"Efficiency isn’t about doing less — it’s about understanding more."</i>
+</h3>
+
 ### 🧬 About Me
 - 🎓  I'm a junior undergraduate at **Westlake University**, majoring in Electronic Information Engineering.
 - 🔬 I work at the intersection of **Efficient AI**, **Computer Vision** and **Model Compression**.
