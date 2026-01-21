@@ -57,6 +57,9 @@
   </tr>
 </table>
 
+---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Alrightlone&show_icons=true&count_private=true&layout=compact&theme=transparent)
 
 ---
 ### 🌍 Connect with Me
