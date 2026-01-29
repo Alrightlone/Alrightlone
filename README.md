@@ -27,16 +27,21 @@
       <p>
         <em><b>Junhan Zhu</b>, Hesong Wang, Mingluo Su, Zefang Wang, Huan Wang*</em>
         <br>
+        <a href="https://iclr.cc/Conferences/2026"><img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square&labelColor=333333" alt="Conference"></a>
         <a href="https://arxiv.org/abs/2510.06751"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg?style=flat-square"></a> 
         <a href="https://github.com/Alrightlone/OBS-Diff"><img src="https://img.shields.io/github/stars/Alrightlone/OBS-Diff?style=flat-square&logo=github"></a>
       </p>
       <p>
         The <b>first training-free, one-shot pruning framework</b> for Diffusion Models, supporting diverse architectures and pruning granularities. Uses Optimal Brain Surgeon (OBS) to achieve <b>SOTA</b> compression with high generative quality.
       </p>
+      <p>
+        <a href="https://alrightlone.github.io/OBS-Diff-Webpage/">[Project Page]</a> &nbsp; 
+        <a href="https://arxiv.org/abs/2510.06751">[Paper]</a> &nbsp; 
+        <a href="https://github.com/Alrightlone/OBS-Diff">[Code]</a>
+      </p>
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td width="30%">
